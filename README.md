@@ -2,8 +2,7 @@
 
 The Breez plugin: the connector (https://breez-emailagent.fly.dev/mcp) and the Breez skill. Made from the Breez app's source on each change; don't edit it here.
 
-- **claude.ai (an org owner):** Organization settings → Plugins & skills → Sync from GitHub → this repository; set Breez to installed by default.
-- **claude.ai (one person):** Customize → Plugins → Add → Add marketplace → this repository.
-- **Claude Code:** `/plugin marketplace add BreezSolutions/breez-claude`, then `/plugin install breez@breez`.
+- **Claude (web and desktop):** Customize → Plugins → Add → Add marketplace → `BreezSolutions/breez-claude`, install Breez, and turn on **Sync automatically** so each change reaches you.
+- **Claude Code:** `/plugin marketplace add BreezSolutions/breez-claude`, then `/plugin install breez@breez`; turn on auto-update for this marketplace in `/plugin` → Marketplaces to keep it current.
 
-Then sign in to Breez when Claude asks (your company Google account).
+Then sign in to Breez when Claude asks (your company Google account). Only people a Breez admin has added can sign in.
