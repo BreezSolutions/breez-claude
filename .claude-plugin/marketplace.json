@@ -1,0 +1,14 @@
+{
+  "name": "breez",
+  "owner": {
+    "name": "Breez"
+  },
+  "description": "Breez, the company's shared books, in Claude",
+  "plugins": [
+    {
+      "name": "breez",
+      "source": "./plugins/breez",
+      "description": "The company's shared books in Breez: the connector, and how to keep the books with it"
+    }
+  ]
+}

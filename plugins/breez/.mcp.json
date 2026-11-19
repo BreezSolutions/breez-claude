@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "breez": {
+      "type": "http",
+      "url": "https://breez-emailagent.fly.dev/mcp"
+    }
+  }
+}
