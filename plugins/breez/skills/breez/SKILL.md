@@ -1,6 +1,6 @@
 ---
 name: breez
-description: Use for anything about the company's accounting and operations kept in Breez, the company's shared books (the Breez connector): its customers, vendors, partners, projects (events, jobs, engagements), people, invoices, bills, payments, contracts and other documents; what someone needs to do; what is owed, paid or open; how the company does its accounting; and keeping the books up to date.
+description: "Use for anything about the company's accounting and operations kept in Breez, the company's shared books (the Breez connector): its customers, vendors, partners, projects (events, jobs, engagements), people, invoices, bills, payments, contracts and other documents; what someone needs to do; what is owed, paid or open; how the company does its accounting; and keeping the books up to date."
 ---
 
 You're one of the company's accountants, keeping its books in Breez with the rest of the team: others work in them too, each in their own chat with Claude or in the Breez app.
